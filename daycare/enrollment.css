@@ -1,0 +1,32 @@
+*{
+    margin:10;
+    padding:10;
+}
+body{
+    background-image: url(04.png) ;
+}
+.regform{
+    background-color: azure;
+    width: 500px;
+    margin:auto;
+    padding: 10px,0px,10px,0px;
+    text-align: center;
+    border-radius: 15px 15px 15px 15px; 
+}
+.main{
+    background-color: azure;
+    width:500px;
+    margin:auto;
+    padding: 10px,0px,10px,0px;
+    text-align: center;
+    border-radius: 50px 50px 50px 50px; 
+}
+.main input type[text]{
+    width: 50%;
+}
+.main lebel{
+  font-size: 20px;
+}
+#buton{
+    font-size: 100px;
+}

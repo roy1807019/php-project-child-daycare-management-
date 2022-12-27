@@ -1,0 +1,30 @@
+body{
+    background-image: url(05.png);
+}
+.top{
+    text-align: center;
+}
+.left{
+    background-color: aliceblue;
+    width: 33.3%;
+    float: right;
+    height: 500px;
+    font-size: 20px;
+}
+.middle{
+    background-color: aquamarine;
+    width: 33.3%;
+    float: left;
+    height: 500px;
+    font-size: 20px;
+}
+.right{
+    background-color: bisque;
+    width: 33.3%;
+    margin: 0 auto;
+    height: 500px;
+    font-size: 20px;
+}
+.bottom{
+    display: flex;
+}

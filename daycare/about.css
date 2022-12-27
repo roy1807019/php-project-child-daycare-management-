@@ -1,0 +1,14 @@
+.top{
+    text-align: center;
+}
+.botom{
+    background-image: url(09.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 100px;
+    height: 900px;
+    font-size: 20px;
+}
+body{
+    background-image: url(05.png);
+}
